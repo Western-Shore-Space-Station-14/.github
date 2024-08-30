@@ -4,6 +4,7 @@ Western уже немолодой проект в Space Station 14, берущи
 ## Полезные Ссылки
 <a href="https://discord.gg/KH2qtGFwYE"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 ## Разработка
+**Проект прекратил свою деятельность в Space Station 14 в качестве сервера.**
 ### Разработчики
 - aidargg32
 - Sh18RW
